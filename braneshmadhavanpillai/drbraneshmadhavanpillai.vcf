@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N: Pillai;Dr. Branesh Madhavan;;;
+FN:Dr. Branesh Madhavan  Pillai
+ORG:Industrial Systems Engineering (ISE) 
+ADR;TYPE=WORK:Faculty of Advanced Science and Technology (FAST)
+
+TITLE:Assistant Professor
+TEL;TYPE=CELL:+66994435824
+TEL;TYPE=WORK:+6625245227
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:branesh@ait.ac.th
+URL;TYPE=Digital Business Card:
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Asian Institute of Technology 58 Moo 9, Km. 42, Paholyothin Highway, Klong Luang, Pathum Thani 12120 Thailand 
+UID:EnBizCard-100150208
+END:VCARD
