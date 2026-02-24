@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Sein Minn, Ph.D.;;;
+FN:Sein Minn, Ph.D.
+ORG:Computer Science and Communication Technology (CSCT) 
+ADR;TYPE=WORK:Faculty of Advanced Science and Technology (FAST)
+TITLE:Assistant Professor
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:+662524-5712
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:sein-minn@ait.ac.th
+URL;TYPE=Digital Business Card:
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Asian Institute of Technology 58 Moo 9, Km. 42, Paholyothin Highway, Klong Luang, Pathum Thani 12120 Thailand 
+UID:EnBizCard-100296324
+END:VCARD
