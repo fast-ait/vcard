@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tuvayanon;Dr.   Wiput;;;
+FN:Dr.   Wiput Tuvayanon
+ORG:Industrial Systems Engineering (ISE)
+ADR;TYPE=WORK:Faculty of Advanced Science and Technology (FAST)
+
+
+TITLE:Assistant Professor
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:+6625245682
+TEL;TYPE=HOME:+66832499986
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:wiputt@ait.ac.th
+URL;TYPE=Digital Business Card:
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Asian Institute of Technology 58 Moo 9, Km. 42, Paholyothin Highway, Klong Luang, Pathum Thani 12120 Thailand
+UID:EnBizCard-100314349
+END:VCARD
